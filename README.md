@@ -2,5 +2,4 @@
 
 ## Datasets:
 
-- MNIST:
-- 
+- MNIST
