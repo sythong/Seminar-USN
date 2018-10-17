@@ -1,1 +1,6 @@
 # Seminar-USN
+
+## Datasets:
+
+- MNIST:
+- 
