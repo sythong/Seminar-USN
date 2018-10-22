@@ -16,7 +16,7 @@ The default `python=3` environment should install python most recent version (by
 
 The examples presented in the class will be written in jupyter notebook. By installing anaconda environment in these instructions, jupyter notebook will also be installed.  
 
-I recommend the installation of the **nb_package** in your environment. This is a package that gives you access to conda extensions in the jupyter notebook. For that, activate your environment, and run the command `conda install nb_conda`  
+I recommend the installation of the **nb_conda** in your environment. This is a package that gives you access to conda extensions in the jupyter notebook. For that, activate your environment, and run the command `conda install nb_conda`  
 
 In order to run jupyter notebook, activate your environment and run the command: `jupyter notebook`  
 
