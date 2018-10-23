@@ -1,5 +1,25 @@
 # Basic Python  
 
+- **Date:** TBD
+- **Local:** TBD
+- **Target Audience:** Bachelors and MSc students
+- **Topics:**
+  - Anaconda Environments - Installing python packages
+  - Arithmetic Operators
+  - Values and Types
+  - String Operations
+  - Math functions
+  - Conditional statements
+  - Loops
+  - Functions, Parameters and Arguments
+  - Lists
+  - Tuples
+  - Classes and objects
+  - Arrays and matrices with numpy
+- **Reference Materials:** 
+  - Book O'Reilly Media, Inc. Learning Python, 5th Edition
+  - [Conda documentation](https://conda.io/docs/)
+  
 ## Prerequisites:
 
 ### Anaconda
