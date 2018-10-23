@@ -9,7 +9,7 @@ Here you can find the materials used in the lectures/seminars held at USN:
 - **Target Audience:** Bachelors and MSc students
 - **Lecture materials:** [here](https://github.com/rafaelpadilla/Seminar-USN/tree/master/seminar_python/)
 - **Topics:**
-	- Anaconda Environments - Installing python packages
+  - Anaconda Environments - Installing python packages
   - Arithmetic Operators
   - Values and Types
   - String Operations
@@ -17,7 +17,7 @@ Here you can find the materials used in the lectures/seminars held at USN:
   - Conditional statements
   - Loops
   - Functions, Parameters and Arguments
-  - Dictionaries and lists
+  - Lists
   - Tuples
   - Classes and objects
   - Arrays and matrices with numpy
@@ -32,5 +32,3 @@ Here you can find the materials used in the lectures/seminars held at USN:
 - **Lecture materials:** TBD
 - **Topics:** TBD
 - **Reference Materials:** TBD
-
-
